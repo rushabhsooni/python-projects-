@@ -1,0 +1,3 @@
+https://pythonprogramming.net/parse-website-using-regular-expressions-urllib/
+
+https://www.youtube.com/watch?v=5GzVNi0oTxQ&t=1217s
